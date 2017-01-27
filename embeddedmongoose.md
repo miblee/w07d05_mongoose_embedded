@@ -7,15 +7,6 @@
 SWBAT:
 
 - Create embedded schemas for Mongoose models
-- Add and remove embedded documents using Mongoose
-- Use the Node console to perform CRUD operations
-
----
-
-## Review
-
-1. How do you insert a route parameter into an Express route?
-2. How do you access the route parameter?
 
 ---
 
