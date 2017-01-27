@@ -53,7 +53,7 @@ $ npm install mongoose --save
 
 ```js
 With the package installed, lets use it - open server.js, and create your
-mongoose connetion(remember family-tree execersie!), and this code snippet
+mongoose connection(remember family-tree execersie!), and this code snippet
 
 var mongoose = require('mongoose')
 mongoose.connect("mongodb://localhost/embedded-docs")
@@ -117,7 +117,7 @@ Where does this code snippet go?
 
 var User = require('./models/user')
 
-# Now create the user Joe from 2 slides ago here
+# Now create the user Joe 
 
 joe.save();
 
